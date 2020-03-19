@@ -26,3 +26,5 @@ USA
 [Ref4:]  Open Condition Monitoring :  Citizen monitoring of Govt would have prevented Covid-19 pandemic.
 
 https://github.com/wrapperband/Open-Condition-Monitoring
+
+[Ref5:] Worldometer UK Death rate per day : https://www.worldometers.info/coronavirus/country/uk/
