@@ -22,3 +22,7 @@ USA
 [Ref2:]  USA Death Rate :  https://www.worldometers.info/coronavirus/coronavirus-death-toll/
 
 [Ref3:]  Death rate to infected estimation : 
+
+[Ref4:]  Open Condition Monitoring :  Citizen monitoring of Govt would have prevented Covid-19 pandemic.
+
+https://github.com/wrapperband/Open-Condition-Monitoring
