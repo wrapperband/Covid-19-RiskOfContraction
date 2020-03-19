@@ -14,7 +14,7 @@ UK   19/3/2020
 
 USA
 
-![alt tag](https://github.com/wrapperband/Covid-19-RiskOfContraction/blob/master/Covid-19-RiskCharts/Covid-19RiskUSA17.3.2020%2BPredicted-Log.png)
+![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-18/Covid-19RiskUSA17.3.2020%2BPredicted-Log.png)
 
 
 [Ref1:]  Public Health England UK Death rates : https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
