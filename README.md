@@ -6,4 +6,12 @@ I'm disabled but have made these initial charts to show people the real risk. I 
 
 I then have shown the virus is doubling at greater than the 4 days doubling time I and others were estimating, and shorter than the Govt are working to.   
 
-![alt tag](https://raw.githubusercontent.com/wrapperband/Stub)
+
+UK
+
+![alt tag](https://github.com/wrapperband/Covid-19-RiskOfContraction/blob/master/Covid-19-RiskCharts/RiskUK18.3.2020-03LogUpdate.png)
+
+
+USA
+
+![alt tag](https://github.com/wrapperband/Covid-19-RiskOfContraction/blob/master/Covid-19-RiskCharts/Covid-19RiskUSA17.3.2020%2BPredicted-Log.png)
