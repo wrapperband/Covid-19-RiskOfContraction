@@ -15,3 +15,10 @@ UK
 USA
 
 ![alt tag](https://github.com/wrapperband/Covid-19-RiskOfContraction/blob/master/Covid-19-RiskCharts/Covid-19RiskUSA17.3.2020%2BPredicted-Log.png)
+
+
+[Ref1:]  Public Health England UK Death rates : https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
+
+[Ref2:]  USA Death Rate :  https://www.worldometers.info/coronavirus/coronavirus-death-toll/
+
+[Ref3:]  Death rate to infected estimation : 
