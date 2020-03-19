@@ -6,15 +6,19 @@ I'm disabled but have made these initial charts to show people the real risk. I 
 
 I then have shown the virus is doubling at greater than the 4 days doubling time I and others were estimating, and shorter than the Govt are working to.   
 
+#### Chart Key
+
+Blue line is real data, red extension is prediction based on 4 day doubling time and number of deaths.
+
 
 UK   19/3/2020
 
 ![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-19/UK-Covid-19Risk19-3-2020.png)
 
 
-USA
+USA 17/3/2020
 
-![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-18/Covid-19RiskUSA17.3.2020%2BPredicted-Log.png)
+![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-19/USA-Covid-19Risk18-3-2020.png)
 
 
 [Ref1:]  Public Health England UK Death rates : https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
