@@ -15,6 +15,10 @@ UK   19/3/2020
 
 ![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-19/UK-Covid-19Risk19-3-2020.png)
 
+UK    19/3/2020
+
+![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-19/UK-Covid-19-KnowADeadPerson-19-3-2020.png)
+
 
 USA 17/3/2020
 
