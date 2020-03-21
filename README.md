@@ -1,5 +1,8 @@
 # Covid-19-RiskOfContraction  
 
+#### 20/3/2020 chart : My son is stupidly being returned from france and we are both in isolation so he is homeless. Will update the charts as soon as I can, but it would be great if someone can take over the daily updates, just do a pull request. I had some further chart ideas to make situation more plain as well. 
+
+
 #### Speadsheets to calculate the risk of catching Covid-19 and how that risk is changing over time.    
 
 I'm disabled but have made these initial charts to show people the real risk. I have done this by calculating the cumulative number of infected cases from the number of dead. 160 * Dead = Infections over last 20 days before person is tested.  
@@ -8,7 +11,7 @@ I then have shown the virus is doubling at greater than the 4 days doubling time
 
 #### Chart Key
 
-Blue line is real data, red extension is prediction based on 4 day doubling time and number of deaths.
+Blue line is real data, red extension is prediction based on 4 day doubling time and number of deaths. Calculated a 1.2 increase per day.
 
 
 UK   19/3/2020
