@@ -1,13 +1,13 @@
 # Covid-19-RiskOfContraction  
 
-#### Speadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimatin the number infected when one person dies. This the only way to estimate the infecyion rate with Covid-15, without mass testing.
+#### Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. This the only way to estimate the infection rate with Covid-19, without mass testing.
 
 
 I'm disabled but have made these initial charts to show people the real risk. I have done this by calculating the cumulative number of infected cases from the number of dead. 160 * Dead = Infections over last 20 days before person is tested.  
 
 I then have shown the virus is doubling at greater than the 4 days doubling time I and others were estimating, and shorter than the Govt are working to.   
 
-I'm on lock down and will update soon showing the actual infetion rate and deaths to predicted valuse. The see what the effect of the UK leaving schools open, volentary regulations which all the wrong people wouldn't keep, like bar, retraunts and theatre goers who are in ideal early asymptomatic transfer with an increased Ro
+I'm on lock down and will update soon showing the actual infection rate and deaths to predicted values. The see what the effect of the UK leaving schools open, voluntary regulations which all the wrong people wouldn't keep, like bar, restaurants and theatre goers who are in ideal early asymptomatic transfer with an increased Ro
 
 
 
