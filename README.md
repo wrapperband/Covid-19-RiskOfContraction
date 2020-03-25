@@ -1,9 +1,46 @@
 # Covid-19-RiskOfContraction  
 
-#### Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. This the only way to estimate the infection rate with Covid-19, without mass testing.
+#### Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. 
+
+#### This the only way to estimate the infection rate with Covid-19, without mass testing.  
+
+### The effect of time on your Risk of catching or being a carrier Covid-19
 
 
-I'm disabled but have made these initial charts to show people the real risk. I have done this by calculating the cumulative number of infected cases from the number of dead. 160 * Dead = Infections over last 20 days before person is tested.  
+The Risk in UK on Sunday was,    1 : 500 people you met had covid-19    -   In m less dense populated areas it was  1 : 1500 chance of meeting someone outside of Hotspots
+
+4 days later, virus contagion is doubling : 
+
+Risk is 1 : 250    and  1 :750
+
+Every person you meet your personal risk doubles  :
+
+If you Meet :
+
+Number of people -  Risk you met an infected person in a Hotspot, Sunday 22nd March 2020   conservative estimate 1 : 500
+
+26th March 2020 Effect of meeting multiple people on your risk of meeting a Covid-19 infected person. (in a Hotspot)
+
+1st person you meet     1 : 250
+2 Persons               1 : 125
+3 Persons               1 : 62.5
+4 Persons               1 : 31.25
+5 Persons               1 : 15
+6 Persons               1 : 7.5
+7 Persons               1 : 3.25
+8 Persons               1 : 1.625
+
+
+
+Even if you say, but only 50% transmit it if you meet them - that just means meeting one more person infected to be high probability.
+
+This means crowded places increase the risk like a doubling time as well increasing the transmissibility (Ro) geographically.
+
+
+
+#### Initial charts to show non experts an exponential chart the real risks of you meeting one person, so the risk goes up each person you meet. In an easy to understand chart
+
+I have done this by calculating the cumulative number of infected cases from the number of dead. 160 * Dead = Infections over last 20 days before person is tested.  
 
 I then have shown the virus is doubling at greater than the 4 days doubling time I and others were estimating, and shorter than the Govt are working to.   
 
