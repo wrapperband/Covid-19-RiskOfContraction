@@ -1,13 +1,15 @@
 # Covid-19-RiskOfContraction  
 
-#### 20/3/2020 chart : My son is stupidly being returned from france and we are both in mandatory isolation, him for 14 days, me 2 years (estimated realistic time to vaccine). So he is homeless. Will update the charts as soon as I can, but it would be great if someone can take over the daily updates, just do a pull request. I had some further chart ideas to make situation more plain as well, which are probable better uses of my limited physical time. 
+#### Speadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimatin the number infected when one person dies. This the only way to estimate the infecyion rate with Covid-15, without mass testing.
 
-
-#### Speadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimatin the number infected when one person dies.    
 
 I'm disabled but have made these initial charts to show people the real risk. I have done this by calculating the cumulative number of infected cases from the number of dead. 160 * Dead = Infections over last 20 days before person is tested.  
 
 I then have shown the virus is doubling at greater than the 4 days doubling time I and others were estimating, and shorter than the Govt are working to.   
+
+I'm on lock down and will update soon showing the actual infetion rate and deaths to predicted valuse. The see what the effect of the UK leaving schools open, volentary regulations which all the wrong people wouldn't keep, like bar, retraunts and theatre goers who are in ideal early asymptomatic transfer with an increased Ro
+
+
 
 #### Chart Key
 
