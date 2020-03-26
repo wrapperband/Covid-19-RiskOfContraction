@@ -24,14 +24,21 @@ Number of people -  Risk you met an infected person in a Hotspot, Sunday 22nd Ma
 26th March 2020 Effect of meeting multiple people on your risk of meeting a Covid-19 infected person. (in a Hotspot)
   
 1st person you meet     1 : 250  
-2 Persons               1 : 125  
-3 Persons               1 : 62.5  
-4 Persons               1 : 31.25  
-5 Persons               1 : 15  
-6 Persons               1 : 7.5  
-7 Persons               1 : 3.25  
-8 Persons               1 : 1.625  
-  
+2 Persons               1 : 250 / 2 = 125  
+3 Persons               1 : 250 / 3 =  83
+4 Persons               1 : 250 / 4 =  63
+5 Persons               1 : 250 / 5 =   50
+6 Persons               1 : 250 / 6 =   42
+7 Persons               1 : 250 / 7 =   36
+8 Persons               1 : 250 / 8 =   31
+9P ersons               1 : 250 / 9 =   28
+10 Persons               1 : 250 / 10 =   25
+11 Persons               1 : 250 / 11 =   13
+12 Persons               1 : 250 / 12 =   6
+13 Persons               1 : 250 / 13 =   3
+14 Persons               1 : 250 / 14 =   2
+15 Persons               1 : 250 / 15 =   1 
+
   
   
 Even if you say, but only 50% transmit it if you meet them - that just means meeting one more person infected to be high probability.  
