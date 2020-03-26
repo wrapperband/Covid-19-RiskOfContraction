@@ -2,7 +2,9 @@
 
 #### Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. 
 
-#### This the only way to estimate the infection rate with Covid-19, without mass testing.  
+Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. 
+
+This the a good way to estimate the infection rate with Covid-19, without mass testing data.  
 
 ### The effect of time on your Risk of catching or being a carrier Covid-19
   
