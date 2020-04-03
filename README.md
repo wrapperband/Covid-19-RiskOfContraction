@@ -2,14 +2,12 @@
 
 #### Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. 
 
-Spreadsheets to calculate the risk of catching Covid-19 and how that estimated risk is changing over time, compared to the real risk from estimation of the number infected when one person dies. 
-
 This the a good way to estimate the infection rate with Covid-19, without mass testing data.  
 
-### Deaths in UK predicted from 19/3/2020 data
+### Deaths in UK predicted from 19/3/2020 data   
 
 
-Action by UK Govt up to shut down have caused an accelerated rate of infection and death in the UK due to Covid-19. AS of 2nd April 2020 running at 1.35 times a day increase. Probably consistent with higher rates in hot spots like London.
+Action by UK Govt up to shut down have caused an accelerated rate of infection and death in the UK due to Covid-19. As of 2nd April 2020 running at 1.35 times a day increase. Probably consistent with higher rates in hot spots like London.
 
 ![alt tag](https://raw.githubusercontent.com/wrapperband/Covid-19-RiskOfContraction/master/Covid-19-RiskCharts/2020-3-19/UK-Covid-19Dead19-3-2020-3.png)
 
